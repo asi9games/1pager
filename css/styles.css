@@ -1,5 +1,5 @@
 body {
-  background: rgb(204,204,204); 
+  background: rgb(222,72,22); 
 }
 page {
   background: white;
@@ -16,7 +16,7 @@ page[size="A4"] {
 
 
 .column {
-    padding-left: 3rem;
+
   float: left;
   width: 50%;
 }
@@ -30,8 +30,22 @@ page[size="A4"] {
 }
 
 .testimonial_image {
-  width: 40%;
+  width: 30%;
   margin-bottom: 1rem;
+  padding-top: 10rem;
+}
+
+.test-two{
+  color: red;
+  font-size: 50px;
+}
+
+h1{
+    font-size: 100px;
+}
+
+#thatass {
+    font-weight: bold;
 }
 
 @media print {
